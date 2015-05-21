@@ -1,0 +1,239 @@
+/*
+
+Theme Name: repu inc
+
+Theme URI: ...
+
+Author: the Wellspring team
+
+Author URI: ....
+
+*/
+
+
+form.wpcf7-form {
+margin-top: 50px;
+margin:20px;
+}
+
+#two-column{
+	width: 550px;
+     margin-left:300px;
+}
+#two-column #left{
+	width: 300px;
+	float: left;
+}
+#two-column #right{
+	width: 250px;
+	float: right;
+}
+#two-column p{
+	margin-bottom: 12px;
+}
+#two-column input[type="text"],#two-column input[type="email"] {
+	border:none;
+	border:1px solid #000;
+	font-size :14px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	width: 540px;
+	padding: 5px;
+}
+#two-column #right input[type="text"], #two-column #left input[type="text"],#two-column #left input[type="email"]{
+	width:240px;
+}
+#two-column textarea {
+    position: relative;
+    padding: 5px;
+    border:1px solid #000;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    width: 540px;
+}
+#two-column input[type="submit"]{
+	padding:8px 18px;
+	background:#222;
+	color:#fff;
+	border: 1px solid #fff;
+	float:right;
+	font-size: 14px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+#two-column input[type="text"]:focus,#two-column input[type="email"]:focus, #two-column textarea:focus{
+	background: #eee;
+}
+#two-column input[type="submit"]:hover{
+	background:#fff;
+	color:#222;
+	border: 1px solid #222;
+}
+
+/*------- Custom CSS  -------*/
+.contact_form {
+  width: 100%;  
+  float: left;
+  padding: 10px 10%;
+  border: solid 1px #c3c3c4;
+}
+.contact_label {
+	width: 30%;
+	float: left;
+	font-family: "Trebuchet MS";
+	font-size: 14px;
+	color: #2333ae;
+	padding-top: 0px;
+}
+
+.contact_ipbox {
+	width: 50% !important;
+	height: 23px;
+	float: left;
+	font-family: "Trebuchet MS";
+	font-size: 12px;
+	color: #2333ae;
+	
+	padding-left: 5px;
+ }
+.submitt {
+  background: #2333ae;
+  width: 20%;
+  height: 40px;
+  border-radius: 25px !important;
+  color:#fff;
+ }
+ .spn-mem {
+	float: left;
+	font-family: "Trebuchet MS";
+	font-size: 14px;
+	color: #2333ae;
+	padding-top: 0px;
+ }
+ .rd-label {
+	margin-right:2%;
+ }
+.sign-upp  {
+ max-width:1204px;
+}
+.div-mem {
+width:135px;
+}
+.rb-span {
+padding-top:3px;
+}
+#wppb-login-wrap/* , .wppb-user-forms   */{
+width: 420px;
+margin: 0 405px;
+margin: 0 405px;
+position: absolute;
+background: #fff;
+top: 193px;
+opacity: .8881212;
+font-family:arial;
+display:none;
+padding: 0.5%;
+z-index: 999999;
+}
+.login-username,.login-password,.login-remember,.login-submit {
+width:100%;
+padding:4px 18px;
+float:left;
+box-sizing: border-box;
+}
+.login-submit {
+width:432px;
+}
+.sign-in h1 {
+line-height: 62px;
+font-size: 50px;
+font-weight: 100;
+}
+.sign-in h3{
+  font-size: 24px;
+  font-weight: 100;
+}
+
+.sign-in input {
+	width: 100%;
+	height: 30px;
+	box-sizing:border-box;
+}
+.wppb_register_pre_form_message {
+width: 405px;
+}
+.login-submit #wppb-submit {
+background:url("./img/sign-in-btn.png") no-repeat;
+color:#fff;
+height: 100px!important;
+border: 0;
+width: 100%;
+margin-left: -10px;
+color: transparent;
+}
+
+/**=======================**/
+/*.top-banner > img {
+height:330px;
+}
+.logo img {
+z-index:999999999999999999;
+}*/
+@media screen and (max-width: 1024px){
+.heading{
+ font-size: 42px!important;
+ }
+ .pop-up-frm {
+width:250px;
+}
+}
+ 
+@media screen and (max-width: 768px){
+.heading{
+ font-size: 40px!important;
+ } 
+.pop-up-frm {
+width:200px;
+}
+}
+ 
+@media screen and (max-width: 640px){
+.submitt {
+padding:14px!important;
+}
+.heading{
+ font-size: 38px!important;
+} 
+.pop-up-frm {
+width:200px;
+}
+}
+ 
+@media screen and (max-width: 480px){
+.submitt {
+padding:10px!important;
+}
+.heading{
+ font-size: 36px!important;
+} 
+.pop-up-frm {
+width:200px;
+}
+}
+ 
+@media screen and (max-width: 360px){ 
+ .heading{
+ font-size: 34px!important;
+ } 
+.submitt {
+padding:7px!important;
+}
+.pop-up-frm {
+width:200px;
+}
+}
+/*******------------*******/
+ 

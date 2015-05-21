@@ -1,0 +1,178 @@
+@font-face {
+    font-family: 'freighttext_bookregular';
+    src: url('../fonts/freighttext-book-webfont.eot');
+    src: url('../fonts/freighttext-book-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/freighttext-book-webfont.woff') format('woff'),
+         url('../fonts/freighttext-book-webfont.ttf') format('truetype'),
+         url('../fonts/freighttext-book-webfont.svg#freighttext_bookregular') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+@font-face {
+    font-family: 'freighttext_lightregular';
+    src: url('../fonts/freighttext-light-webfont.eot');
+    src: url('../fonts/freighttext-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/freighttext-light-webfont.woff') format('woff'),
+         url('../fonts/freighttext-light-webfont.ttf') format('truetype'),
+         url('../fonts/freighttext-light-webfont.svg#freighttext_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+@font-face {
+    font-family: 'freighttext_mediumregular';
+    src: url('../fonts/freighttext-medium-webfont.eot');
+    src: url('../fonts/freighttext-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/freighttext-medium-webfont.woff') format('woff'),
+         url('../fonts/freighttext-medium-webfont.ttf') format('truetype'),
+         url('../fonts/freighttext-medium-webfont.svg#freighttext_mediumregular') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+@font-face {
+    font-family: 'freighttext_mediumitalicRg';
+    src: url('../fonts/freighttext-mediumitalic-webfont.eot');
+    src: url('../fonts/freighttext-mediumitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/freighttext-mediumitalic-webfont.woff') format('woff'),
+         url('../fonts/freighttext-mediumitalic-webfont.ttf') format('truetype'),
+         url('../fonts/freighttext-mediumitalic-webfont.svg#freighttext_mediumitalicRg') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+@font-face {
+    font-family: 'freightsans_probold';
+    src: url('../fonts/freigsanprobold-webfont.eot');
+    src: url('../fonts/freigsanprobold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/freigsanprobold-webfont.woff') format('woff'),
+         url('../fonts/freigsanprobold-webfont.ttf') format('truetype'),
+         url('../fonts/freigsanprobold-webfont.svg#freightsans_probold') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+@font-face {
+    font-family: 'freightsans_probook';
+    src: url('../fonts/freigsanprobook-webfont.eot');
+    src: url('../fonts/freigsanprobook-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/freigsanprobook-webfont.woff') format('woff'),
+         url('../fonts/freigsanprobook-webfont.ttf') format('truetype'),
+         url('../fonts/freigsanprobook-webfont.svg#freightsans_probook') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+@font-face {
+    font-family: 'freightsans_prolight';
+    src: url('../fonts/freigsanprolig-webfont.eot');
+    src: url('../fonts/freigsanprolig-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/freigsanprolig-webfont.woff') format('woff'),
+         url('../fonts/freigsanprolig-webfont.ttf') format('truetype'),
+         url('../fonts/freigsanprolig-webfont.svg#freightsans_prolight') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+@font-face {
+    font-family: 'freightsans_promedium';
+    src: url('../fonts/freigsanpromed-webfont.eot');
+    src: url('../fonts/freigsanpromed-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/freigsanpromed-webfont.woff') format('woff'),
+         url('../fonts/freigsanpromed-webfont.ttf') format('truetype'),
+         url('../fonts/freigsanpromed-webfont.svg#freightsans_promedium') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+@font-face {
+    font-family: 'freightsans_prosemibold';
+    src: url('../fonts/freigsanprosem-webfont.eot');
+    src: url('../fonts/freigsanprosem-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/freigsanprosem-webfont.woff') format('woff'),
+         url('../fonts/freigsanprosem-webfont.ttf') format('truetype'),
+         url('../fonts/freigsanprosem-webfont.svg#freightsans_prosemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+@font-face {
+    font-family: 'freight_sans_pro_black';
+    src: url('../fonts/freigsanproblk.eot');
+    src: url('../fonts/freigsanproblk.eot') format('embedded-opentype'),
+         url('../fonts/freigsanproblk.woff') format('woff'),
+         url('../fonts/freigsanproblk.ttf') format('truetype'),
+         url('../fonts/freigsanproblk.svg#FreightSansProBlack') format('svg');
+    font-weight: normal;
+    font-style: normal; }
+
+@font-face {
+    font-family: 'proxima_nova_ltsemibold';
+    src: url('../fonts/proxima_nova_semibold-webfont.eot');
+    src: url('../fonts/proxima_nova_semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/proxima_nova_semibold-webfont.woff') format('woff'),
+         url('../fonts/proxima_nova_semibold-webfont.ttf') format('truetype'),
+         url('../fonts/proxima_nova_semibold-webfont.svg#proxima_nova_ltsemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+@font-face {
+    font-family: 'socicon';
+    src: url('../fonts/socicon-webfont.eot');
+    src: url('../fonts/socicon-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/socicon-webfont.woff') format('woff'),
+         url('../fonts/socicon-webfont.ttf') format('truetype'),
+         url('../fonts/socicon-webfont.svg#sociconregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}    
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+
+    @font-face {
+        font-family: 'freighttext_bookregular';
+        src: url('../fonts/freighttext-book-webfont.svg#freighttext_bookregular') format('svg');
+    }
+
+    @font-face {
+        font-family: 'freighttext_lightregular';
+        src: url('../fonts/freighttext-light-webfont.svg#freighttext_lightregular') format('svg');
+    }
+
+    @font-face {
+        font-family: 'freighttext_mediumregular';
+        src: url('../fonts/freighttext-medium-webfont.svg#freighttext_mediumregular') format('svg');
+    }
+
+    @font-face {
+        font-family: 'freighttext_mediumitalicRg';
+        src: url('../fonts/freighttext-mediumitalic-webfont.svg#freighttext_mediumitalicRg') format('svg');
+    }
+
+    @font-face {
+        font-family: 'freightsans_probold';
+        src: url('../fonts/freigsanprobold-webfont.svg#freightsans_probold') format('svg');
+    }
+
+    @font-face {
+        font-family: 'freightsans_probook';
+        src: url('../fonts/freigsanprobook-webfont.svg#freightsans_probook') format('svg');
+    }
+
+    @font-face {
+        font-family: 'freightsans_prolight';
+        src: url('../fonts/freigsanprolig-webfont.svg#freightsans_prolight') format('svg');
+    }
+
+    @font-face {
+        font-family: 'freightsans_promedium';
+        src: url('../fonts/freigsanpromed-webfont.svg#freightsans_promedium') format('svg');
+    }
+
+    @font-face {
+        font-family: 'freightsans_prosemibold';
+        src: url('../fonts/freigsanprosem-webfont.svg#freightsans_prosemibold') format('svg');
+    }
+
+    @font-face {
+        font-family: 'proxima_nova_ltsemibold';
+        src: url('../fonts/proxima_nova_semibold-webfont.svg#proxima_nova_ltsemibold') format('svg');
+    }
+
+    @font-face {
+        font-family: 'freight_sans_pro_black';
+        src: url('freigsanproblk.svg#FreightSansProBlack') format('svg');
+    }
+}
